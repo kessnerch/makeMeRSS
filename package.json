@@ -1,0 +1,15 @@
+{
+  "name": "makeMeRSS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kessnerch <kessnerch@gmail.com>",
+  "license": "CC-BY-SA-4.0",
+  "dependencies": {
+    "diet": "^0.16.0",
+    "js2xmlparser": "^3.0.0",
+  }
+}
