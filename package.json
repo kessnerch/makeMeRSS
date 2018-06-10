@@ -10,6 +10,6 @@
   "license": "CC-BY-SA-4.0",
   "dependencies": {
     "diet": "^0.16.0",
-    "js2xmlparser": "^3.0.0",
+    "js2xmlparser": "^3.0.0"
   }
 }
